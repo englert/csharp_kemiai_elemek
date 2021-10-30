@@ -2,6 +2,8 @@
 �v;Elem;Vegyjel;Rendsz�m;Felfedez�
 �kor;Arany;Au;79;Ismeretlen
 1250;Arz�n;As;33;Albertus Magnus
+
+https://vslapp.files.wordpress.com/2011/11/linq-cheatsheet.pdf
 */
 using System;                     // Console
 using System.IO;                  // StreamReader
